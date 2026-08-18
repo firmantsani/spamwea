@@ -10,6 +10,6 @@ https://f-droid.org/repo/com.termux_1022.apk
 
 Buka Termux, lalu copy-paste perintah berikut:
 
-pkg update -y && pkg install git php curl -y && git clone https://github.com/firmantsani/spamwea.git && cd spamwea && php register.php
+pkg update -y && pkg install git php curl -y && git clone https://github.com/firmantsani/spamwea.git && cd spamwea && php spamwea.php
 
 Semua konfirmasi akan otomatis dijawab Y, jadi tidak perlu mengetik "y" manual.
